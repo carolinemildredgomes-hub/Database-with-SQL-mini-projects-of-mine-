@@ -1,0 +1,4 @@
+SELECT *
+FROM "singers"
+ORDER BY "age" DESC
+LIMIT 10;
