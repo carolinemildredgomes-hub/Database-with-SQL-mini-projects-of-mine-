@@ -1,0 +1,4 @@
+SELECT *
+FROM paintings
+WHERE value > 100000000
+ORDER BY value DESC;
