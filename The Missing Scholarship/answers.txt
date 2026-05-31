@@ -1,0 +1,16 @@
+Mystery 1
+Recipient: Lucas Johnson 321
+Scholarship: Academic Excellence Scholarship
+Amount: 5000
+Major: Business
+
+Mystery 2
+Student: Emma Walker 450
+Major: Chemistry
+Scholarship: Computer Science Merit Scholarship
+
+Mystery 3
+Student: Sophia Johnson
+Grant Amount: 2000
+Payment Status: 2026-05-12
+Current Holder: Ava Johnson 411
