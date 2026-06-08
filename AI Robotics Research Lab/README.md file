@@ -1,0 +1,49 @@
+# AI Robotics Research Lab Database
+
+## Project Overview
+
+The AI Robotics Research Lab Database is a SQL-based research analytics system designed to track researchers, projects, publications, and citation performance.
+
+The project simulates the type of database infrastructure commonly used in research institutions and advanced technology laboratories.
+
+## Research Questions
+
+* Which AI projects are currently active?
+* Which Robotics projects are currently active?
+* Which publications receive the most citations?
+* Which researchers are the most productive?
+* How can project information be summarized for reporting?
+
+## Database Tables
+
+* researchers
+* projects
+* publications
+
+## Views Created
+
+* ai_projects
+* robotics_projects
+* most_cited
+* researcher_productivity
+* research_summary
+
+## SQL Skills Demonstrated
+
+* JOIN
+* GROUP BY
+* COUNT()
+* ORDER BY
+* String Processing
+* CREATE VIEW
+* Research Analytics
+
+## Technologies Used
+
+* SQLite
+* SQL
+* GitHub
+
+## Author
+
+Caroline Mildred Gomes
